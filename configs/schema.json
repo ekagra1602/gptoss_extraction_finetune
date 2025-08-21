@@ -1,0 +1,6 @@
+{
+    "invoice_id": "string",
+    "date": "string (YYYY-MM-DD)",
+    "total": "number"
+  }
+  
