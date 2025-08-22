@@ -1,0 +1,6 @@
+{
+    "instruction": "Extract fields as valid JSON matching this schema: {\"invoice_id\":\"string\",\"date\":\"YYYY-MM-DD\",\"total\":\"number\"}. Return only JSON.",
+    "input": "<DOC_TEXT HERE>",
+    "output": "{\"invoice_id\":\"INV-2031\",\"date\":\"2025-08-20\",\"total\":259.99}"
+  }
+  

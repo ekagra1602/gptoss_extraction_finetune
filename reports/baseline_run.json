@@ -1,0 +1,26 @@
+{
+  "run": "baseline",
+  "model": "mistral:7b",
+  "schema_fields": [
+    "invoice_id",
+    "date",
+    "total"
+  ],
+  "results": [
+    {
+      "doc_id": "invoice_0",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "doc_id": "invoice_1",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "doc_id": "invoice_2",
+      "ok": true,
+      "error": ""
+    }
+  ]
+}
